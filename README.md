@@ -6,6 +6,7 @@
     npm init react-app . -> public-index.html 제외 삭제 -> src-index.js 제외 삭제
 -> index.js 수정
   </p>
+  <p>코드 내용은 파일 참고</p>
 </div>
 <h2>
   에러
