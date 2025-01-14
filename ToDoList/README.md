@@ -10,6 +10,10 @@
     <p>- 단순히 함수 호출일 때는 e 객체 사용 X</p>
   </div>
   <p>
-    해당 요소를 삭제하기 위해서 
+    onClick={() => {DelteList(i);}}
+    onClick={DelteList(i)} => onClick 이벤트가 발생하기 전에 함수가 실행됨
+  </p>
+  <p>
+    
   </p>
 </div>
