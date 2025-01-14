@@ -17,4 +17,7 @@
   <p>
     onClick={DelteList(i)} => onClick 이벤트가 발생하기 전에 함수가 실행됨
   </p>
+  <p>
+    요소의 인덱스를 DelteList(i)로 보내주고 함수 내에서 요소의 인덱스는 index가 되어 inputList 요소의 i와 비교하여 같으면 false
+  </p>
 </div>
