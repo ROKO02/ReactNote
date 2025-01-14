@@ -1,5 +1,6 @@
 <h2>추가 및 삭제 기능</h2>
 <div>
+  <h3>추가</h3>
   <p>
     input 태크 vlaue 값을 inputValue로 설정함으로써 onChange를 설정했을때 e.target.value를 통하여 inputValue 변경
   </p>
@@ -11,6 +12,7 @@
       <li>단순히 함수 호출일 때는 e 객체 사용 X</li>
     </ul>
   </div>
+  <h3>삭제</h3>
   <p>
     onClick={() => {DelteList(i);}} => onClick 이벤트가 발생해야 함수가 실행됨
   </p>
