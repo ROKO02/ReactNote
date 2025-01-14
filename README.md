@@ -27,5 +27,5 @@
     - npm i babel-eslint -D
   </p>
   <p>2. TypeError: react__WEBPACK_IMPORTED_MODULE_0___default is not a function or its return value is not iterable</p>
-  <p>- import useState from "react";   ->   import { useState } from "react";</p>
+  <p>- import useState from "react";   =>   import { useState } from "react";</p>
 </div>
