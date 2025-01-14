@@ -37,7 +37,7 @@ function App() {
                 <span>{item}</span>
                 <button
                   type="button"
-                  onClick={(e) => {
+                  onClick={() => {
                     DelteList(i);
                   }}
                 >
