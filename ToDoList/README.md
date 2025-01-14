@@ -5,12 +5,12 @@
   </p>
 
   <div>
-    <h4>이벤트 객체 e</h4>
+    <h4>이벤트 객체 (e)</h4>
     <p> - 정보나 동작 제어</p>
     <p>- 단순히 함수 호출일 때는 e 객체 사용 X</p>
   </div>
   <p>
-    onClick={() => {DelteList(i);}}
+    onClick={() => {DelteList(i);}} => onClick 이벤트가 발생해야 함수가 실행됨
   </p>
   <p>
     onClick={DelteList(i)} => onClick 이벤트가 발생하기 전에 함수가 실행됨
