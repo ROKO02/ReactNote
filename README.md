@@ -6,6 +6,14 @@
     npm init react-app . -> public-index.html 제외 삭제 -> src-index.js 제외 삭제
 -> index.js 수정
   </p>
+  <p>CSS 스타일 기본 설정</p>
+  <div>
+    * {
+  margin: 0 auto;
+  padding: 0;
+}
+  </div>
+  <p>어느 브라우저에서든 동일하게 보이게 하기 위해서</p>
 </div>
 <h2>
   StrictMode는 무엇일까?
