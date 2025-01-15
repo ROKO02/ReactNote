@@ -41,6 +41,7 @@
   return nextState;<br>
 });<br>
 </p>
+<p>setCount((prevCount) => prevCount + 1);</p>
 <h2>에러</h2>
 <div>
   <p>
