@@ -4,14 +4,6 @@
   <p>
     input 태크 vlaue 값을 inputValue로 설정함으로써 onChange를 설정했을때 e.target.value를 통하여 inputValue 변경
   </p>
-
-  <div>
-    <h4>이벤트 객체 (e)</h4>
-    <ul>
-      <li>정보나 동작 제어</li>
-      <li>단순히 함수 호출일 때는 e 객체 사용 X</li>
-    </ul>
-  </div>
   <h3>삭제</h3>
   <p>
     onClick={() => {DelteList(i);}} => onClick 이벤트가 발생해야 함수가 실행됨
