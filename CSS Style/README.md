@@ -5,3 +5,5 @@
 <p>막대 전체 : ::-webkit-scrollbar</p>
 <p>막대 : ::-webkit-scrollbar-thumb</p>
 <p>막대 외 : ::-webkit-scrollbar-track</p>
+<p>스크롤바 내부 간격을 주고 싶다</p>
+<p>막대 -  background-clip: padding-box;, border에 transparent 추가</p>
